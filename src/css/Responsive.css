@@ -1,0 +1,190 @@
+@media(max-width:1399.98px){
+    .inp-login-wrapper{
+        padding: 0px 24px 48px 0;
+    }
+    .inp-login{
+        padding: 24px 0 12px 0;
+    }
+    #outlined-basic{
+        padding: 12px 11px;
+    }
+    .header-box{
+        padding: 7px 0 10px;
+    }
+    .login-box{
+        padding: 30px 48px;
+    }
+    .inp-login-wrapper{
+        padding: 0px 18px 48px 0;
+    }
+    .checkBox-wrapper{
+        padding: 14px 0;
+    }
+    .login-btn-wrapper{
+        padding: 10px 0 30px;
+    }
+    .login-btn{
+        padding: 9px 26px;
+    }
+    .pasword-span{
+        margin-right: 9px;
+    }
+    .img-logo-box{
+        padding: 28px 0 0;
+    }
+    .img-logo-box img{
+        width: 22px;
+        height: 22px;
+        margin-right: 14px;
+    }
+}
+@media(max-width:1299.98px){
+    .inp-login-wrapper{
+        padding: 0px 24px 48px 0;
+    }
+    .inp-login{
+        padding: 20px 0 10px 0;
+    }
+    #outlined-basic{
+        padding: 11px 10px;
+    }
+    .header-box{
+        padding: 6px 0 9px;
+    }
+    .login-box{
+        padding: 30px 42px;
+    }
+    .checkBox-wrapper{
+        padding: 9px 0;
+    }
+    .checkBox-wrapper span{
+        font-size: 15px;
+    }
+    .checkBox-wrapper svg{
+        font-size: 21px;
+    }
+    .login-btn-wrapper{
+        padding: 8px 0 26px;
+    }
+    .login-btn{
+        padding: 6px 18px;
+        font-weight: 400;
+    }
+    .pasword-span{
+        margin-right: 7px;
+        font-size: 13px;
+    }
+    .pasword-link{
+        font-size: 13px;
+    }
+    .img-logo-box{
+        padding: 24px 0 0;
+    }
+    .img-logo-box img{
+        width: 21px;
+        height: 21px;
+        margin-right: 13px;
+    }
+}
+@media(max-width:1099.98px){
+    .login-box{
+        padding: 30px 24px;
+    }
+    .inp-login-wrapper{
+        padding: 0px 0px 48px 0;
+    }
+    .img-logo-box{
+        padding: 21px 0 0;
+    }
+    .img-logo-box img{
+        width: 19px;
+        height: 19px;
+        margin-right: 11px;
+    }
+}
+@media(max-width:991.98px){
+    .login-container{
+        width: 66%;
+        margin: 0 auto;
+    }
+    .inp-login-wrapper{
+        padding: 0px 4px 36px 0;
+    }
+    .login-box{
+        padding: 30px 28px;
+    }
+}
+@media(max-width:767.98px){
+    .login-container{
+        width: 70%;
+        margin: 0 auto;
+    }
+    .login-img-wrapper{
+        border-left: none;
+    }
+}
+@media(max-width:575.98px){
+    .main-login-container{
+        padding: 60px 0px ;
+    }
+    .login-container{
+        width: 100%;
+        margin: 0 auto;
+    }
+    .inp-login-wrapper{
+        padding: 0px 24px 48px 0;
+    }
+    .inp-login{
+        padding: 36px 0 12px 0;
+    }
+    #outlined-basic{
+        padding: 16px 11px;
+    }
+    .header-box{
+        padding: 16px 0 24px;
+    }
+    .login-box{
+        padding: 30px 48px;
+        box-shadow: none;
+        border: none;
+    }
+    .inp-login-wrapper{
+        padding: 0px 18px 40px 0;
+    }
+    .checkBox-wrapper{
+        padding: 20px 0 14px;
+    }
+    .login-btn-wrapper{
+        padding: 16px 0 36px;
+    }
+    .login-btn{
+        padding: 12px 26px;
+    }
+    .pasword-span{
+        margin-right: 9px;
+    }
+    .img-logo-box{
+        padding: 32px 0 0;
+    }
+    .img-logo-box img{
+        width: 26px;
+        height: 26px;
+        margin-right: 14px;
+    }
+    .pasword-span{
+        margin-right: 7px;
+        font-size: 17px;
+    }
+    .pasword-link{
+        font-size: 17px;
+    }
+    .checkBox-wrapper span{
+        font-size: 17px;
+    }
+    .checkBox-wrapper svg{
+        font-size: 24px;
+    }
+    .login-img-wrapper{
+        display: none;
+    }
+}
