@@ -1,0 +1,16 @@
+@keyframes blink {
+    0% {
+      background-color: #c42121;
+    }
+    50% {
+      background-color: #000;
+    }
+    100% {
+      background-color: #c42121;
+
+    }
+  }
+
+  .animated-button {
+    animation: blink 2s infinite;
+  }
