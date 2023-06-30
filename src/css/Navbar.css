@@ -1,0 +1,59 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+#search-box {
+    position: relative;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 5px;
+    border-radius: 4px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+#search-form {
+    height: 40px;
+    width: 600px;
+    background-color: #fff;
+    overflow: hidden;
+    border-radius:7px;
+}
+#search-text {
+    font-size: 14px;
+    color: #ddd;
+    border-width: 0;
+    background: transparent;
+    line-height: 15px
+}
+#search-box input[type="text"] {
+    width: 90%;
+    padding: 10px 0 5px 1em;
+    color: #333;
+    outline: none
+}
+#search-button {
+    position: absolute;
+    top: calc(50% - 22px);
+    right: 9px;
+    height: 40px;
+    color: #fff;
+    text-align: center;
+    border-width: 0;
+    background-color: transparent;
+    cursor: pointer;
+    text-transform: uppercase;
+    border-radius: 3px;
+    outline: 0
+}
+.bottom-nav-item {
+    border: 2px solid red;
+}
+.bottom-nav-item-text:hover {
+    color: orangered !important;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; /* remove the gap so it doesn't close */
+}

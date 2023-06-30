@@ -8,18 +8,19 @@ import FormControlLabel from '@mui/material/FormControlLabel';
 import Checkbox from '@mui/material/Checkbox';
 import '../css/Responsive.css'
 
-const LoginPage = () => {
+const LoginPage = ({navigate}) => {
     return (
         <>
-        <div className="main-login-container">
+        <div className="main-login-container " >
                 <div className="login-container">
-                    <div className="login-box">
+                    
+                    <div className="login-box bg-white">
                         <div className="row">
                             <div className="col-md-12">
                                 <div className="login-wrapper">
                                     <div className="header-box d-flex justify-content-end">
                                         <div style={{ cursor: "pointer" }}>
-                                            <ClearIcon />
+                                            <ClearIcon onClick={()=> navigate("/")} />
                                         </div>
                                     </div>
                                 </div>
